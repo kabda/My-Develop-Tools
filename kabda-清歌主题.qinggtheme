@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>info</key>
+	<dict>
+		<key>appVersion</key>
+		<string>3400</string>
+		<key>author</key>
+		<string>fanyuandong</string>
+		<key>identifier</key>
+		<string>kabda</string>
+		<key>lastModified</key>
+		<date>2021-02-12T09:05:23Z</date>
+		<key>name</key>
+		<string>kabda</string>
+	</dict>
+	<key>panel</key>
+	<dict>
+		<key>alpha</key>
+		<real>1</real>
+		<key>backgroundColor</key>
+		<string>FFFFFF</string>
+		<key>borderHeight</key>
+		<real>5</real>
+		<key>borderWidth</key>
+		<real>5</real>
+		<key>cornerRadius</key>
+		<real>5</real>
+		<key>lineSpace</key>
+		<real>0.0</real>
+	</dict>
+	<key>textColor</key>
+	<dict>
+		<key>codeBackgroundColor</key>
+		<string></string>
+		<key>codeForegroundColor</key>
+		<string>41925D</string>
+		<key>highlightedBackgroundColor</key>
+		<string></string>
+		<key>highlightedForegroundColor</key>
+		<string>2C3E50</string>
+		<key>modeStringBackgroundColor</key>
+		<string>2C3E50</string>
+		<key>modeStringForegroundColor</key>
+		<string>FFFFFF</string>
+		<key>subtextBackgroundColor</key>
+		<string></string>
+		<key>subtextForegroundColor</key>
+		<string>BBBBBB</string>
+		<key>textBackgroundColor</key>
+		<string></string>
+		<key>textForegroundColor</key>
+		<string>41925D</string>
+	</dict>
+	<key>textFont</key>
+	<dict>
+		<key>name</key>
+		<string>PingFangSC-Regular</string>
+		<key>size</key>
+		<real>14</real>
+	</dict>
+</dict>
+</plist>
